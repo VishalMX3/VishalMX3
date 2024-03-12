@@ -1,11 +1,17 @@
 ### Hi there 👋
+![Screenshot 2024-02-22 175736](https://github.com/VishalMX3/VishalMX3/assets/63143819/264f92a9-aae5-4a6d-9a3b-307d051b38af)
 
+
+I am a web developer comfortable around both front-end and back-end coding languages, responsive frameworks, databases, and best code practices. I have built web and mobile applications using technologies like React, React-Native, Expo, Redux, NodeJS, JavaScript, Typescript, Tailwind, and I have working knowledge of database platforms like MongoDB. 
+
+My aim is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning continuously. I am a team player with a knack for visual design. I am currently using MERN stack to build web applications.
+- 🔭 I’m currently working on ...nkdjn
 <!--
 **VishalMX3/VishalMX3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...nkdjn
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
