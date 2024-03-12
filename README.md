@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Screenshot 2024-02-22 175736](https://github.com/VishalMX3/VishalMX3/assets/63143819/264f92a9-aae5-4a6d-9a3b-307d051b38af)
+![image](https://github.com/VishalMX3/VishalMX3/assets/63143819/6da9140b-fed9-489f-a1ca-e3852a8884f0)
+
 
 
 I am a web developer comfortable around both front-end and back-end coding languages, responsive frameworks, databases, and best code practices. I have built web and mobile applications using technologies like React, React-Native, Expo, Redux, NodeJS, JavaScript, Typescript, Tailwind, and I have working knowledge of database platforms like MongoDB. 
