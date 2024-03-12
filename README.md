@@ -6,9 +6,9 @@ ___
 
 🚀 My aim is simply to be the best software developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning continuously. I am a team player with a knack for visual design. I am currently using MERN stack to build applications.
 
-![Gmail](mailto:f20191055@pilani.bits-pilani.ac.in)
-![Twitter](https://twitter.com/VishalP1226)
-![LinkedIn](https://www.linkedin.com/in/vishal-pundhir-31059b197/)
+(mailto:f20191055@pilani.bits-pilani.ac.in)
+(https://twitter.com/VishalP1226)
+(https://www.linkedin.com/in/vishal-pundhir-31059b197/)
 
 
 <!--
